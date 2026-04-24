@@ -15,7 +15,7 @@ This project was originally started during my internship with the Cook County As
 This repository reflects my own work and extensions of the original project. It is not an official work product of the Cook County Assessor’s Office and has not been reviewed or endorsed by CCAO.
 
 ---
-
+## View memo [here!](https://rushikeshay.github.io/tif-districts-analysis-ccao-project/) 
 ## Objectives
 
 - Analyze spatial distribution of TIF districts in Chicago  
